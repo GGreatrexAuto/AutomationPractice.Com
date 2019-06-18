@@ -5,9 +5,9 @@ using System.Text;
 
 namespace AutomationPractice.Com
 {
-    class Program
+    class EntryPoint
     {
-        static void Main(string[] args)
+        static void Main()
         {
         }
     }
